@@ -6,11 +6,17 @@
    
    백엔드 개발자 과정을 진행하고 있습니다!
   
-  🛠 Tech Stack 🛠
+  🛠 Tech Stack
   
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-  
- #
+ 
+🌎 SNS Link
+ 
+ <a href="www.instagram.com/jeongho_0304/">
+<img
+src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=www.instagram.com/jeongho_0304/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho97&show_icons=true&theme=스타일)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho97&langs_count=8)](https://github.com/jeongho97/github-readme-stats)
