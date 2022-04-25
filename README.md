@@ -1,7 +1,12 @@
-### Hi there 👋
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho97&show_icons=true&theme=스타일)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongho97&langs_count=8)](https://github.com/jeongho97/github-readme-stats)
+  
+  ### 🛠 Tech Stack 🛠
+  
+ <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  </div>
 <!--
 **jeongho97/jeongho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
