@@ -1,4 +1,9 @@
-<div align="center">
+   <div align="center"> 
+ 
+ ![image](https://user-images.githubusercontent.com/101568892/165022240-d1943930-6283-4db4-92a0-391094deca59.png)
+  
+  🌱 안녕하세요~ 현재 포스코ICT 청년IT전문가 아카데미3기생 이정호입니다.   
+      백엔드 개발자 과정을 진행하고 있습니다!
   
   🛠 Tech Stack 🛠
   
