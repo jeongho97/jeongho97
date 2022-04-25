@@ -12,9 +12,9 @@
  #
 🌎 SNS Link
  
- <a href="www.instagram.com/jeongho_0304/">
+ <a href="https://www.instagram.com/jeongho_0304/">
 <img
-src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=www.instagram.com/jeongho_0304/"
+src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/jeongho_0304/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
