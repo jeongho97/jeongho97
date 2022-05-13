@@ -10,13 +10,19 @@
   
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>  <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
  #
-🌎 SNS Link
+🌎 SNS Link  ,  git사용법
  
  <a href="https://www.instagram.com/jeongho_0304/">
-<img
-src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/jeongho_0304/"
+<img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/jeongho_0304/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<a href="https://todayilearn.tistory.com/3">
+ <img src="http://img.shields.io/badge/-git-FFFFFF?style=flat&logo=git&link=https://todayilearn.tistory.com/3"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongho97&show_icons=true&theme=스타일)
