@@ -1,11 +1,5 @@
    <div align="center"> 
-   
-   <img src="https://user-images.githubusercontent.com/101568892/165022240-d1943930-6283-4db4-92a0-391094deca59.png" width="62">
-   
-   안녕하세요~ 현재 포스코ICT 청년IT전문가 아카데미3기생 이정호입니다.    
-   
-   풀스택 개발자 과정을 진행하고 있습니다!
-  #
+   <h1>To become a full stack developer...</h1> <br><br>
   🛠 Tech Stack
   
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>  <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
